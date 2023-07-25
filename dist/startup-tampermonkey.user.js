@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         startup-tampermonkey
-// @namespace    https://github.com/wChenonly/select-to-copy
+// @namespace    https://github.com/wChenonly/startup-tampermonkey
 // @version      0.0.0
 // @author       wChenonly
 // @description  Tampermonkey script template
